@@ -5,7 +5,7 @@ My Portfolio https://portfolio-81m.pages.dev/
 
 Here are some ideas to get you started:
 
---> 🔭 I’m currently working on ... Front End Developer
+- 🔭 I’m currently working on ... Front End Developer
 - 🌱 I’m currently learning ... Full stack developer
 - 👯 I’m looking to collaborate on ... 
 - 🤔 I’m looking for help with ... 
