@@ -1,4 +1,4 @@
-### Hi there 👋 Manikandan 
+### Hi there 👋 Manikandan S
 My Portfolio https://portfolio-81m.pages.dev/
 <!--
 **manisrivi/manisrivi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
